@@ -1,8 +1,8 @@
-# Implementation: Clean-label Backdoor Attacks on Vision Transformers
+# Implementation of Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer
 
-This repository implements clean-label backdoor attacks on Vision Transformers (ViTs), as introduced in:
+This repository implements Megatron, as introduced in:
 
-> **Backdoor Attacks Meet Vision Transformers: Exploiting Attention for Clean-label Poisoning**  
+> **Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer**  
 > 📄 Paper: [arXiv:2412.04776](https://arxiv.org/abs/2412.04776)
 
 ## 📌 Overview
