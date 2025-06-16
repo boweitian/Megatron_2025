@@ -220,4 +220,4 @@ dependencies:
     - tqdm==4.64.1
     - werkzeug==2.2.2
     - wrapt==1.14.1
-prefix: /home/bowei/anaconda3/envs/vit2022
+    
