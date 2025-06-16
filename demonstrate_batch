@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python create_imagenet_filelist.py
+python generate_poison_transformer.py
+python finetune_transformer.py &
