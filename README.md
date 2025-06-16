@@ -52,7 +52,7 @@ lpips, pytorch-msssim, opencv-python
 
 tqdm, matplotlib, scikit-learn
 
-✅ Step 3: Run the Demo Script
+### ✅ Step 3: Run the Demo Script
 
 ```bash
 bash demonstrate_batch
