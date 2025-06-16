@@ -1,4 +1,4 @@
-# 🧠 Clean-label Backdoor Attacks on Vision Transformers
+# Implementation: Clean-label Backdoor Attacks on Vision Transformers
 
 This repository implements clean-label backdoor attacks on Vision Transformers (ViTs), as introduced in:
 
@@ -61,7 +61,7 @@ bash demonstrate_batch
 This will launch a batch demo showcasing the poisoning attack and evaluation pipeline.
 
 ## 📌 Citation
-If you find this project useful, please also consider citing our follow-up work:
+If you find this project useful, please also consider citing our work:
 
 ```bibtex
 @misc{gong2024megatronevasivecleanlabelbackdoor,
